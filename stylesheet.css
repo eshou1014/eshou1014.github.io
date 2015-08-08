@@ -1,0 +1,40 @@
+html {
+background-color: #FFE6B1;
+}
+
+#Media {
+
+height: auto;
+width: 540px;
+}
+
+#Nav {
+  height: 100px;
+  text-align: center;
+  font-size: 50px;
+}
+
+a:link {
+  color: #FFA82D;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 55px;
+  color: #7F715D;
+}
+
+header {
+  font-family: Orbitron;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+
+}
+
+#describe {
+  margin-top:100px;
+  position: relative;
+
+}
