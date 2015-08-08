@@ -2,11 +2,12 @@ html {
 background-color: #FFE6B1;
 }
 
-#Media {
+#media {
 
 height: auto;
 width: 540px;
 }
+
 
 #Nav {
   height: 100px;
@@ -30,7 +31,7 @@ a:visited {
 
 
 header {
-  font-family: Orbitron;
+  font-family: Orbitron, sans-serif;
   font-weight: bold;
   font-size: 40px;
   text-align: center;
