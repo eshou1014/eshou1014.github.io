@@ -6,28 +6,28 @@ background-color: #FFE6B1;
 
 height: auto;
 width: 540px;
-}
+  }
 
 #Nav {
   height: 100px;
   text-align: center;
   font-size: 50px;
-}
+  }
 
 a:link {
   color: #FFA82D;
   text-decoration: none;
-}
+  }
 
 a:hover {
   font-size: 55px;
   color: #7F715D;
   text-decoration: underline;
-}
+  }
 
 a:visited {
   color: #CC334D;
-}
+  }
 
 
 header {
@@ -37,20 +37,28 @@ header {
   text-align: center;
   position: relative;
 
-}
+  }
 
 #describe {
   margin-top:100px;
   position: relative;
 
-}
+  }
 
 .blogs {
   font-size: 40px;
   text-align: center;
-}
+  }
 
 p {
   font-size: 20px;
   margin-bottom: 100px;
+  }
+
+code {
+  margin-left: 2em;
+  color: blue;
+  background-color: white;
+  padding-bottom: 0.5em;
+  }
 }
