@@ -1,0 +1,49 @@
+html {
+background-color: #FFE6B1;
+}
+
+header {
+  font-family: Orbitron;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+
+}
+
+.blogs {
+font-size: 40px;
+text-align: center;
+}
+
+#table-label {
+  position: absolute;
+  font-style: bold;
+  top:6.5em;
+  left: -.5em;
+  z-index: -1;
+  font-size: 4em;
+  text-decoration: underline;
+  width: 22em;
+}
+
+#table-label td {
+  /*width:3.6em;*/
+  padding: 1.5em 4em 1.5em 1.5em;
+  font-size:.8em;
+}
+
+#table-body {
+  position: absolute;
+  top:9.5em;
+  z-index: -1;
+  font-size: 4em;
+  width: 28.5em;
+
+}
+
+#table-body td {
+  padding: 0em 12em 4em 2em;
+  width: 20%;
+  font-size: .4em;
+}
